@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/android/workspace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/android/workspace/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-50a66357ac53fcf01fec32067793cc7bd1210d52.jar" />
+    </item>
+    <item
+        jar="/home/android/workspace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/android/workspace/MyApplication/app/build/intermediates/pre-dexed/debug/classes-324a506df4ea4011a63b1979ecfc95fd71c8ab12.jar" />
+    </item>
+    <item
+        jar="/home/android/workspace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/android/workspace/MyApplication/app/build/intermediates/pre-dexed/debug/classes-b4e3f5bcc5fb5cd7605a062fd7ca3cb8e23384ac.jar" />
+    </item>
+    <item
+        jar="/home/android/workspace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/android/workspace/MyApplication/app/build/intermediates/pre-dexed/debug/classes-11335996749e6801e064cb962be24ed5f13ea92b.jar" />
+    </item>
+    <item
+        jar="/home/android/android-studio-v1.4/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/android/workspace/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-ccea3d559ac5bbacb69c2c656f95dbc8f23daa78.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <!--内容界面-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/content"
+            android:orientation="vertical" >
+
+            <!--<com.tinno.widget.PagerSlidingTabStrip
+                android:id="@+id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="48dip" >
+            </com.tinno.widget.PagerSlidingTabStrip>
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/pager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+            </android.support.v4.view.ViewPager>-->
+        </LinearLayout>
+
+        <!--侧滑菜单内容-->
+
+        <LinearLayout
+            android:id="@+id/drawer_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="@android:color/darker_gray"
+            android:orientation="vertical"
+            android:padding="8dp" >
+
+        </LinearLayout>
+    </android.support.v4.widget.DrawerLayout>
